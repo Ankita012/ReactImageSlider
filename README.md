@@ -1,3 +1,6 @@
+# screenshot
+![Capture](https://github.com/Ankita012/ReactImageSlider/assets/22776061/2c5cc087-178c-4a6e-96f4-77dca2fa9952)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
